@@ -1,6 +1,0 @@
-cd && cd kti-infra 
-git init
-git add .
-git commit -m 'Init commit'
-git remote add origin https://github.com/username/kti-infra.git
-git push -u origin master
